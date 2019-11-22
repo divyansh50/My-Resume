@@ -1,4 +1,8 @@
-
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body
+{
+  background:rgb(99, 191, 245) ;
+}
   .projectdiv {
     width: 600px;
     height: 400px;
@@ -18,9 +22,10 @@
   font-size: 21px;
     font-family:  'Inconsolata', monospace;
 }
+
 .bgimg
 {
-        background-image:url("pic2.jfif");
+        background-image:url("code1.jpg");
         background-size: 100% 100%;
          background-attachment: fixed;
          width: 100%;
@@ -48,7 +53,7 @@
     font-size: 100%;
     vertical-align: baseline;
     background: transparent;
-   display: block;
+    display: block;
  }
  footer {
     padding-top: 48px;
@@ -87,13 +92,5 @@
  }
  
  
-  header,body{
-   font-family: 'Georgia';
- }
- /*
- h1,h2,h3,h4,h5,h6{
-   font-family: 'opensans-bold', sans-serif;
  
- }
- */
  
